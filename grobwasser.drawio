@@ -1,27 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Seite-1" id="kiRcYdykQpiXVtvCCH_o">
-    <mxGraphModel dx="1115" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1896" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iKRK4WftCPjV4v0DSpR1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKRK4WftCPjV4v0DSpR1-1" target="iKRK4WftCPjV4v0DSpR1-2">
+        <mxCell id="iKRK4WftCPjV4v0DSpR1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iKRK4WftCPjV4v0DSpR1-1" target="iKRK4WftCPjV4v0DSpR1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iKRK4WftCPjV4v0DSpR1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKRK4WftCPjV4v0DSpR1-1" target="iKRK4WftCPjV4v0DSpR1-4">
+        <mxCell id="iKRK4WftCPjV4v0DSpR1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iKRK4WftCPjV4v0DSpR1-1" target="iKRK4WftCPjV4v0DSpR1-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="170" y="570" />
+              <mxPoint x="120" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRK4WftCPjV4v0DSpR1-1" value="Hydraulkdatenkollektiv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="120" width="160" height="60" as="geometry" />
+        <object label="Hydraulkdatenkollektiv" gumo="" id="iKRK4WftCPjV4v0DSpR1-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+            <mxGeometry x="40" y="140" width="160" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="iKRK4WftCPjV4v0DSpR1-2" value="&lt;div&gt;Kennung&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxGeometry x="300" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKRK4WftCPjV4v0DSpR1-2" value="&lt;div&gt;Kennung&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="iKRK4WftCPjV4v0DSpR1-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364" y="560" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRK4WftCPjV4v0DSpR1-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-1" value="&lt;div&gt;Kennung&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="590" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-2" value="&lt;div&gt;Verfahrensvorgaben&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RGeOCi0uQSU0HmTcbR4D-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="270" as="sourcePoint" />
+            <mxPoint x="400" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-5" value="&lt;div&gt;Verfahrensvorgaben&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+          <mxGeometry x="304" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="RGeOCi0uQSU0HmTcbR4D-5" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="470" as="sourcePoint" />
+            <mxPoint x="410" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-7" value="&lt;div&gt;Verfahrensvorgaben&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+          <mxGeometry x="300" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="RGeOCi0uQSU0HmTcbR4D-7" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="360" as="sourcePoint" />
+            <mxPoint x="420" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
