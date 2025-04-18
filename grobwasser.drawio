@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Seite-1" id="kiRcYdykQpiXVtvCCH_o">
-    <mxGraphModel dx="1297" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="622" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
             <mxGeometry x="190" y="262.5" width="80" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-25" target="RGeOCi0uQSU0HmTcbR4D-33">
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-25" target="RGeOCi0uQSU0HmTcbR4D-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Referenz &lt;br&gt;&lt;/div&gt;&lt;div&gt;Stammdaten-&lt;/div&gt;&lt;div&gt;kennung&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-25">
@@ -94,7 +94,7 @@
             <mxGeometry x="320" y="210" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="RGeOCi0uQSU0HmTcbR4D-30">
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-24" target="RGeOCi0uQSU0HmTcbR4D-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="284.8" as="sourcePoint" />
             <mxPoint x="310" y="284.8" as="targetPoint" />
@@ -109,7 +109,7 @@
             <mxPoint x="100" y="270" as="sourcePoint" />
             <mxPoint x="140" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="285" />
+              <mxPoint x="290" y="290" />
               <mxPoint x="290" y="340" />
             </Array>
           </mxGeometry>
@@ -160,9 +160,34 @@
             <mxGeometry x="630" y="420" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Schacht" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-50">
+        <UserObject label="Speicherbauwerk" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-50">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
             <mxGeometry x="630" y="480" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Name Objekt" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-52">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+            <mxGeometry x="440" y="213.75" width="80" height="32.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.469;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-25" target="RGeOCi0uQSU0HmTcbR4D-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="401.20000000000005" y="279.04999999999995" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="283" />
+              <mxPoint x="420" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Grund-/Seitenauslass" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-54">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="630" y="540" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Freier Auslass" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-55">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="630" y="600" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
