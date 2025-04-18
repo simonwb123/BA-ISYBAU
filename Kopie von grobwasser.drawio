@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Seite-1" id="kiRcYdykQpiXVtvCCH_o">
-    <mxGraphModel dx="889" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1297" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,16 +233,22 @@
         <mxCell id="H4KakfRGWg1EVCRGtIzr-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-23" target="H4KakfRGWg1EVCRGtIzr-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div&gt;System-belastungen&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.18.html" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-23">
+        <UserObject label="&lt;div&gt;System-belastungen&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.21.html" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-23">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
             <mxGeometry x="200" y="670" width="80" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-24" target="H4KakfRGWg1EVCRGtIzr-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;div&gt;Trockenwetter-abflussspende&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-24">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
             <mxGeometry x="320" y="670" width="80" height="50" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-25" target="H4KakfRGWg1EVCRGtIzr-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;div&gt;Einzeleinleiter&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-25">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
             <mxGeometry x="320" y="730" width="80" height="40" as="geometry" />
@@ -273,9 +279,14 @@
             <mxGeometry x="440" y="620" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;Niederschlags-kennung&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-31">
+        <UserObject label="&lt;div&gt;Trockenwetter-kennung&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-31">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
             <mxGeometry x="440" y="675" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Einleiterkollektiv-kennung&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-32">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=11;" vertex="1" parent="1">
+            <mxGeometry x="440" y="730" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
