@@ -114,17 +114,55 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-33">
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-33" target="RGeOCi0uQSU0HmTcbR4D-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="285" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="285" />
+              <mxPoint x="560" y="80" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RGeOCi0uQSU0HmTcbR4D-33" value="Objektart" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontFamily=Latin Modern;" vertex="1" parent="1">
           <mxGeometry x="440" y="260" width="80" height="50" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;div&gt;Hydraulik-&lt;/div&gt;&lt;div&gt;objekt&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-37">
+        <UserObject label="Haltung" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-37">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="600" y="265" width="80" height="40" as="geometry" />
+            <mxGeometry x="630" y="60" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Leitung&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-44">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="630" y="120" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Gerinne&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-45">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="630" y="180" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Pumpe" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-46">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="630" y="240" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Wehr" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-47">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="630" y="300" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Schieber" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-48">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="630" y="360" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Schacht" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-49">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="630" y="420" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Schacht" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-50">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="630" y="480" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
