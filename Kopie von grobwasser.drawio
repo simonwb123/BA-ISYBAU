@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Seite-1" id="kiRcYdykQpiXVtvCCH_o">
-    <mxGraphModel dx="1556" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,11 +9,12 @@
             <mxPoint x="214" y="65" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRK4WftCPjV4v0DSpR1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iKRK4WftCPjV4v0DSpR1-1" target="iKRK4WftCPjV4v0DSpR1-4" edge="1">
+        <mxCell id="iKRK4WftCPjV4v0DSpR1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iKRK4WftCPjV4v0DSpR1-1" target="mGreL9vsvFHhippzRWms-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="490" />
+              <mxPoint x="90" y="430" />
             </Array>
+            <mxPoint x="170" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object label="Hydraulkdatenkollektiv" gumo="" id="iKRK4WftCPjV4v0DSpR1-1">
@@ -21,9 +22,6 @@
             <mxGeometry x="20" y="40" width="140" height="50" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="iKRK4WftCPjV4v0DSpR1-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="334" y="460" width="96" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="RGeOCi0uQSU0HmTcbR4D-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-2" target="RGeOCi0uQSU0HmTcbR4D-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -73,7 +71,7 @@
         </mxCell>
         <UserObject label="&lt;div&gt;Rechennetz&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.18.html" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-24">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
-            <mxGeometry x="200" y="262.5" width="80" height="45" as="geometry" />
+            <mxGeometry x="200" y="265" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="RGeOCi0uQSU0HmTcbR4D-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-25" target="RGeOCi0uQSU0HmTcbR4D-33" edge="1">
@@ -94,26 +92,6 @@
             <mxGeometry x="320" y="210" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-24" target="RGeOCi0uQSU0HmTcbR4D-30" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="284.8" as="sourcePoint" />
-            <mxPoint x="310" y="284.8" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="285" />
-              <mxPoint x="290" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-24" target="RGeOCi0uQSU0HmTcbR4D-27" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="270" as="sourcePoint" />
-            <mxPoint x="140" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="290" />
-              <mxPoint x="290" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RGeOCi0uQSU0HmTcbR4D-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-33" target="RGeOCi0uQSU0HmTcbR4D-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -190,11 +168,103 @@
             <mxGeometry x="630" y="600" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mGreL9vsvFHhippzRWms-1" target="H4KakfRGWg1EVCRGtIzr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;div&gt;Gebiete&lt;/div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.19.html" linkTarget="_blank" id="mGreL9vsvFHhippzRWms-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="200" y="435" width="80" height="45" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+            <mxGeometry x="200" y="410" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="Gebietskennung" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+            <mxGeometry x="320" y="380" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Hydraulik-&lt;/div&gt;&lt;div&gt;objekt&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="320" y="440" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Fläche&lt;/div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.20.html" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="200" y="530" width="80" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mGreL9vsvFHhippzRWms-1" target="H4KakfRGWg1EVCRGtIzr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="443" as="sourcePoint" />
+            <mxPoint x="330" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-24" target="RGeOCi0uQSU0HmTcbR4D-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="483" as="sourcePoint" />
+            <mxPoint x="330" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-24" target="RGeOCi0uQSU0HmTcbR4D-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="295" as="sourcePoint" />
+            <mxPoint x="330" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="H4KakfRGWg1EVCRGtIzr-19" source="H4KakfRGWg1EVCRGtIzr-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="552" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Gebietskennung" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-18">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+            <mxGeometry x="320" y="500" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Hydraulik-&lt;/div&gt;&lt;div&gt;objekt&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-19">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="320" y="560" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="H4KakfRGWg1EVCRGtIzr-18" source="H4KakfRGWg1EVCRGtIzr-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="560" as="sourcePoint" />
+            <mxPoint x="330" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-23" target="H4KakfRGWg1EVCRGtIzr-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;System-belastungen&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.18.html" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-23">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="200" y="672.5" width="80" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Referenz &lt;br&gt;&lt;/div&gt;&lt;div&gt;Stammdaten-&lt;/div&gt;&lt;div&gt;kennung&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-24">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="320" y="670" width="80" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Hydraulik-&lt;/div&gt;&lt;div&gt;objekt&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-25">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
+            <mxGeometry x="320" y="730" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Rechnnetz-&lt;/div&gt;&lt;div&gt;kennung&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-26">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+            <mxGeometry x="320" y="620" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-23" target="H4KakfRGWg1EVCRGtIzr-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="893" as="sourcePoint" />
+            <mxPoint x="330" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-23" target="H4KakfRGWg1EVCRGtIzr-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="705" as="sourcePoint" />
+            <mxPoint x="330" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
