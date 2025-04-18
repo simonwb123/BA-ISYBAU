@@ -1,98 +1,99 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Seite-1" id="kiRcYdykQpiXVtvCCH_o">
-    <mxGraphModel dx="1297" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="741" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iKRK4WftCPjV4v0DSpR1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iKRK4WftCPjV4v0DSpR1-1" target="RGeOCi0uQSU0HmTcbR4D-23" edge="1">
+        <mxCell id="iKRK4WftCPjV4v0DSpR1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="iKRK4WftCPjV4v0DSpR1-1" target="RGeOCi0uQSU0HmTcbR4D-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="214" y="65" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRK4WftCPjV4v0DSpR1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iKRK4WftCPjV4v0DSpR1-1" target="mGreL9vsvFHhippzRWms-1" edge="1">
+        <mxCell id="iKRK4WftCPjV4v0DSpR1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=0.428;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="iKRK4WftCPjV4v0DSpR1-1" target="mGreL9vsvFHhippzRWms-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="430" />
+              <mxPoint x="80" y="425" />
             </Array>
-            <mxPoint x="170" y="410" as="targetPoint" />
+            <mxPoint x="80" y="87.50000000000006" as="sourcePoint" />
+            <mxPoint x="190.0000000000001" y="422.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <object label="Hydraulkdatenkollektiv" gumo="" id="iKRK4WftCPjV4v0DSpR1-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
-            <mxGeometry x="20" y="40" width="140" height="50" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
+            <mxGeometry x="20" y="30" width="140" height="50" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-2" target="RGeOCi0uQSU0HmTcbR4D-10" edge="1">
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-2" target="RGeOCi0uQSU0HmTcbR4D-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Verfahrens-vorgaben&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.17.html" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
-            <mxGeometry x="200" y="143.75" width="80" height="56.25" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
+            <mxGeometry x="200" y="141.88" width="80" height="56.25" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="RGeOCi0uQSU0HmTcbR4D-2" edge="1">
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;exitX=0.429;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="RGeOCi0uQSU0HmTcbR4D-2" edge="1" source="iKRK4WftCPjV4v0DSpR1-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="172" as="sourcePoint" />
             <mxPoint x="370" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="170" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" target="RGeOCi0uQSU0HmTcbR4D-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="370" as="sourcePoint" />
-            <mxPoint x="110" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="RGeOCi0uQSU0HmTcbR4D-24" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="284.71" as="sourcePoint" />
+            <mxPoint x="80" y="80" as="sourcePoint" />
             <mxPoint x="130" y="284.71" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="285" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-10" target="RGeOCi0uQSU0HmTcbR4D-15" edge="1">
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-10" target="RGeOCi0uQSU0HmTcbR4D-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Zielgrößen&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.17.html" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-10">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="320" y="148.75" width="80" height="42.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Verfahrens-&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;kennung&lt;/font&gt;&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-15">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-            <mxGeometry x="440" y="148.75" width="80" height="42.5" as="geometry" />
+        <UserObject label="&lt;div&gt;&lt;font&gt;Verfahrens-&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;kennung&lt;/font&gt;&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-15">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+            <mxGeometry x="440" y="148.75" width="90" height="42.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Kennung&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.17.html" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-23">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="200" y="42.5" width="80" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-24" target="RGeOCi0uQSU0HmTcbR4D-25" edge="1">
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-24" target="RGeOCi0uQSU0HmTcbR4D-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Rechennetz&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.18.html" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-24">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
-            <mxGeometry x="200" y="265" width="80" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
+            <mxGeometry x="200" y="262.5" width="80" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-25" target="RGeOCi0uQSU0HmTcbR4D-33" edge="1">
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-25" target="RGeOCi0uQSU0HmTcbR4D-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Referenz &lt;br&gt;&lt;/div&gt;&lt;div&gt;Stammdaten-&lt;/div&gt;&lt;div&gt;kennung&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-25">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="320" y="260" width="80" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Hydraulik-&lt;/div&gt;&lt;div&gt;objekt&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-27">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="320" y="320" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Rechnnetz-&lt;/div&gt;&lt;div&gt;kennung&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-30">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="320" y="210" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-33" target="RGeOCi0uQSU0HmTcbR4D-37" edge="1">
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-33" target="RGeOCi0uQSU0HmTcbR4D-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="285" />
@@ -100,55 +101,55 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-33" value="Objektart" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontFamily=Latin Modern;" parent="1" vertex="1">
-          <mxGeometry x="440" y="260" width="80" height="50" as="geometry" />
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-33" value="Objektart" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="445" y="260" width="80" height="50" as="geometry" />
         </mxCell>
         <UserObject label="Haltung" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-37">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="630" y="60" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Leitung&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-44">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="630" y="120" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Gerinne&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-45">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="630" y="180" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Pumpe" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-46">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="630" y="240" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Wehr" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-47">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="630" y="300" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Schieber" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-48">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="630" y="360" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Schacht" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-49">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="630" y="420" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Speicher-bauwerk" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-50">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="630" y="480" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Name Objekt" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-52">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-            <mxGeometry x="440" y="213.75" width="80" height="32.5" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+            <mxGeometry x="440" y="213.75" width="90" height="32.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.469;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-25" target="RGeOCi0uQSU0HmTcbR4D-52" edge="1">
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.469;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-25" target="RGeOCi0uQSU0HmTcbR4D-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="401.20000000000005" y="279.04999999999995" as="sourcePoint" />
             <mxPoint x="440" y="220" as="targetPoint" />
@@ -159,176 +160,176 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="Grund-/Seitenauslass" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-54">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="630" y="540" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Freier Auslass" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-55">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
             <mxGeometry x="630" y="600" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mGreL9vsvFHhippzRWms-1" target="H4KakfRGWg1EVCRGtIzr-2">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="mGreL9vsvFHhippzRWms-1" target="H4KakfRGWg1EVCRGtIzr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Gebiete&lt;/div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.19.html" linkTarget="_blank" id="mGreL9vsvFHhippzRWms-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
-            <mxGeometry x="200" y="410" width="80" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" parent="1" vertex="1">
+            <mxGeometry x="200" y="400" width="80" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Gebietskennung" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-1">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
             <mxGeometry x="320" y="380" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Hydraulik-&lt;/div&gt;&lt;div&gt;objekt&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-2">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="320" y="440" width="80" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="320" y="430" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Fläche&lt;/div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.20.html" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="200" y="530" width="80" height="45" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="200" y="520" width="80" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mGreL9vsvFHhippzRWms-1" target="H4KakfRGWg1EVCRGtIzr-1">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="mGreL9vsvFHhippzRWms-1" target="H4KakfRGWg1EVCRGtIzr-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="443" as="sourcePoint" />
             <mxPoint x="330" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-24" target="RGeOCi0uQSU0HmTcbR4D-27">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-24" target="RGeOCi0uQSU0HmTcbR4D-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="483" as="sourcePoint" />
             <mxPoint x="330" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-24" target="RGeOCi0uQSU0HmTcbR4D-30">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="RGeOCi0uQSU0HmTcbR4D-24" target="RGeOCi0uQSU0HmTcbR4D-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="295" as="sourcePoint" />
             <mxPoint x="330" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="H4KakfRGWg1EVCRGtIzr-19" source="H4KakfRGWg1EVCRGtIzr-4">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" target="H4KakfRGWg1EVCRGtIzr-19" source="H4KakfRGWg1EVCRGtIzr-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="552" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Gebietskennung" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-18">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <UserObject label="Flächennummer" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-18">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
             <mxGeometry x="320" y="500" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;Hydraulik-&lt;/div&gt;&lt;div&gt;objekt&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-19">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="320" y="560" width="80" height="40" as="geometry" />
+        <UserObject label="Referenz Gebietskennung" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-19">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="320" y="550" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="H4KakfRGWg1EVCRGtIzr-18" source="H4KakfRGWg1EVCRGtIzr-4">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" target="H4KakfRGWg1EVCRGtIzr-18" source="H4KakfRGWg1EVCRGtIzr-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="560" as="sourcePoint" />
             <mxPoint x="330" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-23" target="H4KakfRGWg1EVCRGtIzr-24">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-23" target="H4KakfRGWg1EVCRGtIzr-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;System-belastungen&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.21.html" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-23">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="200" y="670" width="80" height="50" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="200" y="660" width="80" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-24" target="H4KakfRGWg1EVCRGtIzr-31">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-24" target="H4KakfRGWg1EVCRGtIzr-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Trockenwetter-abflussspende&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-24">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="320" y="670" width="80" height="50" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="320" y="660" width="80" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-25" target="H4KakfRGWg1EVCRGtIzr-32">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-25" target="H4KakfRGWg1EVCRGtIzr-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Einzeleinleiter&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-25">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="320" y="730" width="80" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="320" y="720" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-26" target="H4KakfRGWg1EVCRGtIzr-29">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-26" target="H4KakfRGWg1EVCRGtIzr-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Niederschläge&lt;/div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-26">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="320" y="620" width="80" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="320" y="610" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-23" target="H4KakfRGWg1EVCRGtIzr-25">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-23" target="H4KakfRGWg1EVCRGtIzr-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="893" as="sourcePoint" />
-            <mxPoint x="330" y="860" as="targetPoint" />
+            <mxPoint x="290" y="883" as="sourcePoint" />
+            <mxPoint x="330" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-23" target="H4KakfRGWg1EVCRGtIzr-26">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-23" target="H4KakfRGWg1EVCRGtIzr-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="705" as="sourcePoint" />
-            <mxPoint x="330" y="760" as="targetPoint" />
+            <mxPoint x="290" y="695" as="sourcePoint" />
+            <mxPoint x="330" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div&gt;Niederschlags-kennung&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-29">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-            <mxGeometry x="440" y="620" width="90" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="440" y="610" width="90" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Trockenwetter-kennung&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-31">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-            <mxGeometry x="440" y="675" width="90" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="440" y="665" width="90" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Einleiterkollektiv-kennung&lt;/font&gt;&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-32">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=11;" vertex="1" parent="1">
-            <mxGeometry x="440" y="730" width="90" height="40" as="geometry" />
+        <UserObject label="&lt;div&gt;&lt;font&gt;Einleiterkollektiv-kennung&lt;/font&gt;&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-32">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="440" y="720" width="90" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-35" target="H4KakfRGWg1EVCRGtIzr-40">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-35" target="H4KakfRGWg1EVCRGtIzr-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Berechnungen&lt;/div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.22.html" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-35">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="200" y="820" width="80" height="45" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="200" y="810" width="80" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="H4KakfRGWg1EVCRGtIzr-38">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" target="H4KakfRGWg1EVCRGtIzr-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="842.5" as="sourcePoint" />
+            <mxPoint x="400" y="832.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="420" y="842" />
-              <mxPoint x="420" y="870" />
+              <mxPoint x="420" y="832" />
+              <mxPoint x="420" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="Berechnungsinfo" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-37">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-            <mxGeometry x="440" y="790" width="80" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="440" y="780" width="90" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Hydraulik-&lt;/div&gt;&lt;div&gt;objekt&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-38">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="440" y="850" width="80" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="440" y="840" width="90" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="H4KakfRGWg1EVCRGtIzr-37">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="1" target="H4KakfRGWg1EVCRGtIzr-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="842.5" as="sourcePoint" />
-            <mxPoint x="450" y="880" as="targetPoint" />
+            <mxPoint x="400" y="832.5" as="sourcePoint" />
+            <mxPoint x="450" y="870" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="842" />
-              <mxPoint x="420" y="810" />
+              <mxPoint x="420" y="832" />
+              <mxPoint x="420" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="Berechnungsinfo" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-40">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="320" y="822.5" width="80" height="40" as="geometry" />
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=12;" vertex="1" parent="1">
+            <mxGeometry x="320" y="812.5" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
