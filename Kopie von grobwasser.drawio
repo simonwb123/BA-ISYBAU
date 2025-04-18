@@ -27,12 +27,12 @@
         </mxCell>
         <UserObject label="&lt;div&gt;Verfahrens-vorgaben&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.17.html" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" parent="1" vertex="1">
-            <mxGeometry x="200" y="147.5" width="80" height="45" as="geometry" />
+            <mxGeometry x="200" y="143.75" width="80" height="56.25" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="RGeOCi0uQSU0HmTcbR4D-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="RGeOCi0uQSU0HmTcbR4D-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="170" as="sourcePoint" />
+            <mxPoint x="90" y="172" as="sourcePoint" />
             <mxPoint x="370" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -235,21 +235,24 @@
         </mxCell>
         <UserObject label="&lt;div&gt;System-belastungen&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" link="https://www.bfr-abwasser.de/html/ISYBAU_Austauschformate_Abwasser.14.18.html" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-23">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
-            <mxGeometry x="200" y="672.5" width="80" height="45" as="geometry" />
+            <mxGeometry x="200" y="670" width="80" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;Referenz &lt;br&gt;&lt;/div&gt;&lt;div&gt;Stammdaten-&lt;/div&gt;&lt;div&gt;kennung&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-24">
+        <UserObject label="&lt;div&gt;Trockenwetter-abflussspende&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-24">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
             <mxGeometry x="320" y="670" width="80" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;Hydraulik-&lt;/div&gt;&lt;div&gt;objekt&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-25">
+        <UserObject label="&lt;div&gt;Einzeleinleiter&lt;/div&gt;&lt;div&gt;0..∞&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-25">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
             <mxGeometry x="320" y="730" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;Rechnnetz-&lt;/div&gt;&lt;div&gt;kennung&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-26">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H4KakfRGWg1EVCRGtIzr-26" target="H4KakfRGWg1EVCRGtIzr-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Niederschläge&lt;/div&gt;&lt;div&gt;&lt;div&gt;0..∞&lt;/div&gt;&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-26">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;" vertex="1" parent="1">
             <mxGeometry x="320" y="620" width="80" height="40" as="geometry" />
           </mxCell>
         </UserObject>
@@ -265,6 +268,16 @@
             <mxPoint x="330" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="&lt;div&gt;Niederschlags-kennung&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-29">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+            <mxGeometry x="440" y="620" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Niederschlags-kennung&lt;/div&gt;" linkTarget="_blank" id="H4KakfRGWg1EVCRGtIzr-31">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+            <mxGeometry x="440" y="675" width="80" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
