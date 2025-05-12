@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.2">
   <diagram name="Seite-1" id="kiRcYdykQpiXVtvCCH_o">
-    <mxGraphModel dx="2377" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,20 +95,30 @@
             <mxGeometry x="190" y="262.5" width="90" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="RGeOCi0uQSU0HmTcbR4D-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-25" target="RGeOCi0uQSU0HmTcbR4D-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RGeOCi0uQSU0HmTcbR4D-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=13;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-27" target="RGeOCi0uQSU0HmTcbR4D-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="345" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="H4KakfRGWg1EVCRGtIzr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-25" target="RGeOCi0uQSU0HmTcbR4D-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="H4KakfRGWg1EVCRGtIzr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="RGeOCi0uQSU0HmTcbR4D-27" target="RGeOCi0uQSU0HmTcbR4D-52" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="345" />
+              <mxPoint x="440" y="345" />
+              <mxPoint x="440" y="285" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="&lt;div&gt;Referenz &lt;br&gt;&lt;/div&gt;&lt;div&gt;Stammdaten-&lt;/div&gt;&lt;div&gt;kennung&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-25">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=13;" parent="1" vertex="1">
             <mxGeometry x="320" y="260" width="100" height="50" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;Hydraulik-&lt;/div&gt;&lt;div&gt;objekt&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-27">
+        <UserObject label="&lt;div&gt;Hydraulik-&lt;/div&gt;&lt;div&gt;objekt&lt;br&gt;0.....∞&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-27">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=13;" parent="1" vertex="1">
-            <mxGeometry x="320" y="320" width="100" height="40" as="geometry" />
+            <mxGeometry x="320" y="320" width="100" height="50" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Rechnnetz-&lt;/div&gt;&lt;div&gt;kennung&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-30">
@@ -147,7 +157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RGeOCi0uQSU0HmTcbR4D-33" value="Objektart" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontFamily=Latin Modern;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="460" y="250" width="90" height="70" as="geometry" />
+          <mxGeometry x="460" y="310" width="90" height="70" as="geometry" />
         </mxCell>
         <UserObject label="Haltung" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-37">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -191,7 +201,7 @@
         </UserObject>
         <UserObject label="Name Objekt" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-52">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Latin Modern;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-            <mxGeometry x="460" y="210" width="90" height="30" as="geometry" />
+            <mxGeometry x="460" y="270" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Grund-/&lt;/div&gt;&lt;div&gt;Seitenauslass&lt;/div&gt;" linkTarget="_blank" id="RGeOCi0uQSU0HmTcbR4D-54">
@@ -525,7 +535,7 @@
         <mxCell id="xYtCWhQUM0GvvKmP2PAd-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xYtCWhQUM0GvvKmP2PAd-3" target="xYtCWhQUM0GvvKmP2PAd-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xYtCWhQUM0GvvKmP2PAd-3" value="Key-Vor Matching" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xYtCWhQUM0GvvKmP2PAd-3" value="&lt;pre style=&quot;display: block; overflow-x: auto; background: rgb(43, 43, 43); color: rgb(248, 248, 242); padding: 0.5em;&quot; class=&quot;MarkdownCodeBlock_preTag__QMZEO MarkdownCodeBlock_horizontalOverflowHidden__YPHxg&quot;&gt;&lt;code style=&quot;white-space: pre;&quot; class=&quot;MarkdownCodeBlock_codeTag__5BV0Z&quot;&gt;&lt;span class=&quot;hljs-function&quot;&gt;IfcObjectsById&lt;/span&gt;&lt;span&gt;: &lt;br&gt;&lt;/span&gt;&lt;/code&gt;&lt;code style=&quot;white-space: pre;&quot; class=&quot;MarkdownCodeBlock_codeTag__5BV0Z&quot;&gt;&lt;span class=&quot;hljs-function&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 224, 224);&quot; class=&quot;hljs-function&quot;&gt;Dictionary&lt;/span&gt;&lt;span class=&quot;hljs-function&quot;&gt;&lt;/span&gt;&lt;/code&gt;&lt;code style=&quot;white-space: pre;&quot; class=&quot;MarkdownCodeBlock_codeTag__5BV0Z&quot;&gt;&lt;span&gt; &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xYtCWhQUM0GvvKmP2PAd-4" value="P-Set Haltung-Rechennetz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
