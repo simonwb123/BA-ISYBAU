@@ -47,27 +47,12 @@
         <mxCell id="Y7cw4CY2JgSgQnjSolrv-9" value="ToIfcInstance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="Y7cw4CY2JgSgQnjSolrv-8" vertex="1">
           <mxGeometry x="20" y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SI0b86Gb-RYXk4agLxPK-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="Y7cw4CY2JgSgQnjSolrv-8" target="Y7cw4CY2JgSgQnjSolrv-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="50" as="sourcePoint" />
-            <mxPoint x="50" y="125" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-40" y="50" />
-              <mxPoint x="-40" y="195" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SI0b86Gb-RYXk4agLxPK-10" value="später Impemetieren" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SI0b86Gb-RYXk4agLxPK-9">
-          <mxGeometry x="0.0428" y="-3" relative="1" as="geometry">
-            <mxPoint x="-47" y="12" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Y7cw4CY2JgSgQnjSolrv-10" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="Y7cw4CY2JgSgQnjSolrv-10" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.019;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" source="Y7cw4CY2JgSgQnjSolrv-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-553" y="480" as="sourcePoint" />
             <mxPoint x="-303" y="555" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-553" y="555" />
+              <mxPoint x="-570" y="555" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -77,64 +62,38 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y7cw4CY2JgSgQnjSolrv-11" value="GebietType" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-603" y="570" width="220" height="70" as="geometry" />
+          <mxGeometry x="-610" y="1010" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y7cw4CY2JgSgQnjSolrv-12" value="ToIfcInstance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="Y7cw4CY2JgSgQnjSolrv-11" vertex="1">
           <mxGeometry x="20" y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y7cw4CY2JgSgQnjSolrv-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-563" y="630" as="sourcePoint" />
-            <mxPoint x="-543" y="705" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-563" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Y7cw4CY2JgSgQnjSolrv-14" value="FlaechenType" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-623" y="730" width="220" height="70" as="geometry" />
+          <mxGeometry x="-610" y="1160" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y7cw4CY2JgSgQnjSolrv-15" value="ToIfcInstance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="Y7cw4CY2JgSgQnjSolrv-14" vertex="1">
           <mxGeometry x="20" y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y7cw4CY2JgSgQnjSolrv-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-583" y="790" as="sourcePoint" />
-            <mxPoint x="-563" y="865" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-583" y="865" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Y7cw4CY2JgSgQnjSolrv-17" value="HydraulikdatenTypesystembelastung" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-623" y="890" width="220" height="70" as="geometry" />
+          <mxGeometry x="-610" y="1080" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y7cw4CY2JgSgQnjSolrv-18" value="Kein Array? in HydraulikdatenType" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="Y7cw4CY2JgSgQnjSolrv-17" vertex="1">
           <mxGeometry x="20" y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y7cw4CY2JgSgQnjSolrv-19" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-583" y="950" as="sourcePoint" />
-            <mxPoint x="-583" y="1025" as="targetPoint" />
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y7cw4CY2JgSgQnjSolrv-25" target="SI0b86Gb-RYXk4agLxPK-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="910.0000000000002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-583" y="1025" />
+              <mxPoint x="-460" y="890" />
+              <mxPoint x="-10" y="890" />
+              <mxPoint x="-10" y="903" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y7cw4CY2JgSgQnjSolrv-25" value="BerechnungType" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-603" y="1030" width="220" height="70" as="geometry" />
+          <mxGeometry x="-570" y="730" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y7cw4CY2JgSgQnjSolrv-26" value="ToIfcInstance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="Y7cw4CY2JgSgQnjSolrv-25" vertex="1">
           <mxGeometry x="20" y="30" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Y7cw4CY2JgSgQnjSolrv-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-593" y="1100" as="sourcePoint" />
-            <mxPoint x="-573" y="1175" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-593" y="1175" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Y7cw4CY2JgSgQnjSolrv-28" value="HydraulikObjektType" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-303" y="520" width="220" height="70" as="geometry" />
@@ -293,13 +252,63 @@
         <mxCell id="SI0b86Gb-RYXk4agLxPK-55" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="SI0b86Gb-RYXk4agLxPK-52">
           <mxGeometry y="86" width="357" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="SI0b86Gb-RYXk4agLxPK-56" value="root.IfcObjectById.get(&#xa;abwassertechnischeAnlage.Objektbezeichnung)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SI0b86Gb-RYXk4agLxPK-52">
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-56" value="root.IfcObjectById.get(&#xa;HydraulikObjekt.Objektbezeichnung)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SI0b86Gb-RYXk4agLxPK-52">
           <mxGeometry y="94" width="357" height="46" as="geometry" />
         </mxCell>
         <mxCell id="SI0b86Gb-RYXk4agLxPK-57" value="ifc.PropertySet" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SI0b86Gb-RYXk4agLxPK-52">
           <mxGeometry y="140" width="357" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SI0b86Gb-RYXk4agLxPK-58" value="ifc.RelDefinesByProperties" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SI0b86Gb-RYXk4agLxPK-52">
+          <mxGeometry y="166" width="357" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.018;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Y7cw4CY2JgSgQnjSolrv-9" target="Y7cw4CY2JgSgQnjSolrv-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-563" y="470" as="sourcePoint" />
+            <mxPoint x="-543" y="545" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-563" y="480" />
+              <mxPoint x="-570" y="481" />
+              <mxPoint x="-570" y="615" />
+              <mxPoint x="-640" y="615" />
+              <mxPoint x="-640" y="1055" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-10" value="später Impemetieren" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SI0b86Gb-RYXk4agLxPK-9">
+          <mxGeometry x="0.0428" y="-3" relative="1" as="geometry">
+            <mxPoint x="-47" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Y7cw4CY2JgSgQnjSolrv-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-570" y="490" as="sourcePoint" />
+            <mxPoint x="-310" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-570" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-62" value="A-7.6.6.2.1-Ergebnisse Haltungen" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="860" width="357" height="202" as="geometry">
+            <mxRectangle x="350" y="510" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-63" value="pipe: ifc.PipeSegment" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SI0b86Gb-RYXk4agLxPK-62">
+          <mxGeometry y="26" width="357" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-64" value="+ISYBAU_Berechnung_P-Set: ifc.PropertySet " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="SI0b86Gb-RYXk4agLxPK-62">
+          <mxGeometry y="60" width="357" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-65" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="SI0b86Gb-RYXk4agLxPK-62">
+          <mxGeometry y="86" width="357" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-66" value="root.IfcObjectById.get(&#xa;HydraulikObjekt.Objektbezeichnung)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="SI0b86Gb-RYXk4agLxPK-62">
+          <mxGeometry y="94" width="357" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-67" value="ifc.PropertySet" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SI0b86Gb-RYXk4agLxPK-62">
+          <mxGeometry y="140" width="357" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="SI0b86Gb-RYXk4agLxPK-68" value="ifc.RelDefinesByProperties" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SI0b86Gb-RYXk4agLxPK-62">
           <mxGeometry y="166" width="357" height="26" as="geometry" />
         </mxCell>
       </root>
