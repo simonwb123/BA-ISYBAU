@@ -387,7 +387,7 @@
             <mxPoint x="410" y="1714" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-84" value="this.VerlustansatzA110Specified" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3h3WluHekqM8FcVTlRh4-84" value="this.VerlustansatzA110" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1674" width="195" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3h3WluHekqM8FcVTlRh4-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-85" target="3h3WluHekqM8FcVTlRh4-36">
@@ -404,7 +404,7 @@
         <mxCell id="3h3WluHekqM8FcVTlRh4-85" value="this.BerechnungslaengeSpecified" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="170" y="1440" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-91" value="Debug.print&lt;br&gt;ifc.PropertySingleValue(&lt;br&gt;Name: Berechnungslaenge&lt;br&gt;Value:&amp;nbsp; this.Berechnungslaenge&lt;br&gt;Einheit: m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3h3WluHekqM8FcVTlRh4-91" value="Debug.print&lt;br&gt;ifc.PropertySingleValue(&lt;br&gt;Name: &quot;ISYBAU_VerlustanastzA110&lt;br&gt;Value:&amp;nbsp; this.Berechnungslaenge&lt;br&gt;Einheit: m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="1650" width="195" height="94" as="geometry" />
         </mxCell>
       </root>
