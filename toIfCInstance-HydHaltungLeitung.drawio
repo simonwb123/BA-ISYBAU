@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
   <diagram name="Page-1" id="I6leB8wDlI7fggWU5JeS">
-    <mxGraphModel dx="1577" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,37 +163,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-9" target="3h3WluHekqM8FcVTlRh4-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="1110" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="770" />
-              <mxPoint x="100" y="940" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-39" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3h3WluHekqM8FcVTlRh4-18">
-          <mxGeometry x="0.8368" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-9" target="3h3WluHekqM8FcVTlRh4-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="1030" as="targetPoint" />
-            <mxPoint x="261.22" y="770" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="100" y="770" />
-              <mxPoint x="100" y="1026" />
-              <mxPoint x="151" y="1026" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-38" value="ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3h3WluHekqM8FcVTlRh4-23">
-          <mxGeometry x="-0.7474" y="1" relative="1" as="geometry">
-            <mxPoint x="5" y="9" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-40" target="3h3WluHekqM8FcVTlRh4-36">
+        <mxCell id="3h3WluHekqM8FcVTlRh4-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-40" target="3h3WluHekqM8FcVTlRh4-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="1600" as="targetPoint" />
             <Array as="points">
@@ -225,16 +195,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-13" target="3h3WluHekqM8FcVTlRh4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3h3WluHekqM8FcVTlRh4-13" value="this.Rauigkeitsansatz= &quot;Item1&quot;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="810" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="870" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-17" value="rauigkeitsansatz = 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340" y="840" width="120" height="60" as="geometry" />
+        <mxCell id="3h3WluHekqM8FcVTlRh4-17" value="rauigkeitsansatz = 1&lt;br&gt;descriptionRauigkeitswert = &quot;&lt;br&gt;&lt;div class=&quot;TabZelleklein&quot; id=&quot;802660&quot;&gt;Rauigkeitsbeiwert nach Prandtl-Colebrook&quot;&lt;/div&gt;&lt;div class=&quot;TabZelleklein&quot;&gt;unitRauigkeitswert = mm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="820" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3h3WluHekqM8FcVTlRh4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-19" target="3h3WluHekqM8FcVTlRh4-21">
           <mxGeometry relative="1" as="geometry">
@@ -247,42 +215,197 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3h3WluHekqM8FcVTlRh4-19" value="this.Rauigkeitsansatz= &quot;Item2&quot;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="145" y="900" width="190" height="80" as="geometry" />
+          <mxGeometry x="120" y="920" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-21" value="rauigkeitsansatz = 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340.00428571428574" y="920" width="120" height="60" as="geometry" />
+        <mxCell id="3h3WluHekqM8FcVTlRh4-21" value="rauigkeitsansatz = 2&lt;br&gt;&lt;div class=&quot;TabZelleklein&quot; id=&quot;866396&quot;&gt;descriptionRauigkeitswert = &lt;br&gt;&quot;Rauigkeitsbeiwert nach Manning-Strickler&quot;&lt;br&gt;unitRauigkeitswert m/s , sollte m^(1/3)/s&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="920" width="310" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-24" value="Pset Values&lt;br&gt;R" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="1730" width="400" height="220" as="geometry" />
+        <mxCell id="3h3WluHekqM8FcVTlRh4-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-25" target="3h3WluHekqM8FcVTlRh4-85">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.419;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-25" target="3h3WluHekqM8FcVTlRh4-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230.00000000000023" y="1135" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-25" value="ifc.PropertySingleValue(&lt;br&gt;&lt;div&gt;raugikeitsansatz&lt;/div&gt;&lt;div&gt;descriptionRauigkeitsansatz &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1300" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-25" value="ifc.PropertySingleValue(&lt;br&gt;raugikeitsansatz" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="153.8" y="1010" width="150" height="70" as="geometry" />
+        <mxCell id="3h3WluHekqM8FcVTlRh4-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-26" target="3h3WluHekqM8FcVTlRh4-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-26" value="ifc.PropertySingleValue(&lt;br&gt;Name: this.ItemElementName&lt;br&gt;descriptionRauigkeitswert &lt;br&gt;&lt;div&gt;Value: this.itemField&lt;/div&gt;&lt;div&gt;Unit: unitRauigkeitswert&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1090" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3h3WluHekqM8FcVTlRh4-31" value="this.ItemElementName &lt;br&gt;&lt;div&gt; -&amp;gt;RauigkeitsbeiwertKb/ RauigkeitsbeiwertKst &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;this.itemField ist der Wert der Raugikeit&lt;br&gt;&lt;br&gt;Einheit Abhängig vom rauigkeisanatz&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="406.2" y="1070" width="236" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-31" target="3h3WluHekqM8FcVTlRh4-44">
+        <mxCell id="3h3WluHekqM8FcVTlRh4-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-31" target="3h3WluHekqM8FcVTlRh4-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="756.2" y="1065" as="sourcePoint" />
-            <mxPoint x="339.9999999999998" y="1180" as="targetPoint" />
+            <mxPoint x="806.2" y="1015" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-36" value="ifc.PropertySingleValue(&lt;br&gt;Name: Berechnungslaenge&lt;br&gt;Value:&amp;nbsp; this.Berechnungslaenge&lt;br&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;Einheit: m&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="165" y="1315" width="220" height="90" as="geometry" />
+        <mxCell id="3h3WluHekqM8FcVTlRh4-36" value="ifc.PropertySingleValue(&lt;br&gt;Name: Berechnungslaenge&lt;br&gt;Value:&amp;nbsp; this.Berechnungslaenge&lt;br&gt;Einheit: m" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1450" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-40" value="ifc.PropertySingleValue(&lt;br&gt;rauigkeitsansatz = 0&lt;br&gt;?? Gute idee?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="710" y="960" width="140" height="60" as="geometry" />
+        <mxCell id="3h3WluHekqM8FcVTlRh4-40" value="rauigkeitsansatz = 0&lt;br&gt;?? Gute idee?&lt;br&gt;&amp;nbsp;descriptionRauigkeitsansatz &quot;Kein Wert&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="700" y="940" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-43" value="ifc.PropertySingleValue(&lt;br&gt;Name: this.ItemElementName&lt;br&gt;Value: this.itemField&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Einheit: if(rauigkeitsansatz =1):mm&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="825" width="220" height="90" as="geometry" />
+        <mxCell id="3h3WluHekqM8FcVTlRh4-45" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Eigenschaften für P-Set erstellen&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1070" width="388.93" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3h3WluHekqM8FcVTlRh4-44" value="ifc.PropertySingleValue(&lt;br&gt;Name: this.ItemElementName&lt;br&gt;Value: this.itemField&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;br&gt;if(rauigkeitsansatz= 2) m&lt;span class=&quot;Hoch&quot;&gt;1/3&lt;/span&gt;/s&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="920" width="220" height="90" as="geometry" />
+        <mxCell id="3h3WluHekqM8FcVTlRh4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-54" target="3h3WluHekqM8FcVTlRh4-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1248.93" y="990" as="targetPoint" />
+            <mxPoint x="1370.15" y="730" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1260" y="730" />
+              <mxPoint x="1260" y="776" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-50" value="ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3h3WluHekqM8FcVTlRh4-49">
+          <mxGeometry x="-0.7474" y="1" relative="1" as="geometry">
+            <mxPoint x="5" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-70" target="3h3WluHekqM8FcVTlRh4-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1348.93" y="1560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1608.93" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-52" value="nein" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3h3WluHekqM8FcVTlRh4-51">
+          <mxGeometry x="-0.7365" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1588.9300000000003" y="710" as="sourcePoint" />
+            <mxPoint x="1873.93" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-54" value="this.RauigkeitsansatzSpecified" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1298.93" y="670" width="245" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-57" target="3h3WluHekqM8FcVTlRh4-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="708.9300000000001" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-56" value="ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3h3WluHekqM8FcVTlRh4-55">
+          <mxGeometry x="0.2003" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-57" target="3h3WluHekqM8FcVTlRh4-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-57" value="this.Rauigkeitsansatz= &quot;Item1&quot;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="855" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-58" value="rauigkeitsansatz = 1&lt;br&gt;descriptionRauigkeitswert = &quot;&lt;br&gt;&lt;div class=&quot;TabZelleklein&quot; id=&quot;802660&quot;&gt;Rauigkeitsbeiwert nach Prandtl-Colebrook&quot;&lt;/div&gt;&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Einheit = mm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1503.93" y="855" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-61" target="3h3WluHekqM8FcVTlRh4-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1326.6442857142858" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-60" value="ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3h3WluHekqM8FcVTlRh4-59">
+          <mxGeometry x="-0.1919" y="2" relative="1" as="geometry">
+            <mxPoint x="42" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-61" value="this.Rauigkeitsansatz= &quot;Item2&quot;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="960" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-62" value="rauigkeitsansatz = 2&lt;br&gt;&lt;div class=&quot;TabZelleklein&quot; id=&quot;866396&quot;&gt;descriptionRauigkeitswert = &lt;br&gt;&quot;Rauigkeitsbeiwert nach Manning-Strickler&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1493.93" y="955" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-64" target="3h3WluHekqM8FcVTlRh4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-64" value="ifc.PropertySingleValue(&lt;br&gt;raugikeitsansatz" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1273.93" y="760" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.498;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-66" target="3h3WluHekqM8FcVTlRh4-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1379.93" y="1270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1338.93" y="1230" />
+              <mxPoint x="1378.93" y="1230" />
+              <mxPoint x="1378.93" y="1277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-66" value="ifc.PropertySingleValue(&lt;br&gt;Name: this.ItemElementName&lt;br&gt;descriptionRauigkeitswert &lt;br&gt;Value: this.itemField&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Einheit&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1233.93" y="1090" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-67" value="this.ItemElementName &lt;br&gt;&lt;div&gt; -&amp;gt;RauigkeitsbeiwertKb/ RauigkeitsbeiwertKst &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;this.itemField ist der Wert der Raugikeit&lt;br&gt;&lt;br&gt;Einheit Abhängig vom rauigkeisanatz&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="1130" width="236" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-68" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-67" target="3h3WluHekqM8FcVTlRh4-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1865.13" y="1025" as="sourcePoint" />
+            <mxPoint x="1915.13" y="975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-69" value="ifc.PropertySingleValue(&lt;br&gt;Name: Berechnungslaenge&lt;br&gt;Value:&amp;nbsp; this.Berechnungslaenge&lt;br&gt;Einheit: m" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1273.93" y="1275" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-70" value="ifc.PropertySingleValue(&lt;br&gt;rauigkeitsansatz = 0&lt;br&gt;?? Gute idee?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1828.93" y="920" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-71" value="ifc.PropertySingleValue(&lt;br&gt;Name: this.ItemElementName&lt;br&gt;Value: this.itemField&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;&lt;br&gt;if(rauigkeitsansatz= 2) m&lt;span class=&quot;Hoch&quot;&gt;1/3&lt;/span&gt;/s&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1888.93" y="790" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.456;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-61" target="3h3WluHekqM8FcVTlRh4-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.402;entryY=-0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-19" target="3h3WluHekqM8FcVTlRh4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-81" target="3h3WluHekqM8FcVTlRh4-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="236.15789473684208" y="1650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="1620" />
+              <mxPoint x="740" y="1860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-81" value="rauigkeitsansatzIntValue = 1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1580" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-84" target="3h3WluHekqM8FcVTlRh4-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1714" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-84" value="this.VerlustansatzA110Specified" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1674" width="195" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-85" target="3h3WluHekqM8FcVTlRh4-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-88" value="ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3h3WluHekqM8FcVTlRh4-87">
+          <mxGeometry x="-0.2887" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3h3WluHekqM8FcVTlRh4-85" target="3h3WluHekqM8FcVTlRh4-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-85" value="this.BerechnungslaengeSpecified" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1440" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3h3WluHekqM8FcVTlRh4-91" value="Debug.print&lt;br&gt;ifc.PropertySingleValue(&lt;br&gt;Name: Berechnungslaenge&lt;br&gt;Value:&amp;nbsp; this.Berechnungslaenge&lt;br&gt;Einheit: m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="1650" width="195" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
