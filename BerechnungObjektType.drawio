@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.6">
   <diagram name="Page-1" id="I6leB8wDlI7fggWU5JeS">
-    <mxGraphModel dx="1282" dy="1968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1072" dy="1835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -456,6 +456,9 @@
         </mxCell>
         <mxCell id="O0N6vyKvscYDxHL_Ks9--3" value="keyIFCObjekts&lt;br&gt;ObjektBezeichung+GetType()Name " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="464.2" y="-70" width="215" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="O0N6vyKvscYDxHL_Ks9--4" value="IfcISYBAUHelper.iftObjectByISYBAUTyp&lt;br&gt;(this.Type)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-90" width="270" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
